@@ -10,7 +10,7 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
 
 > **¿Qué patrones comparten las canciones más reproducidas de la historia reciente para replicar su éxito?**
 
-**Motivación.** La industria musical invierte mucho en lanzamientos sin saber qué va a funcionar. Identificar qué tienen en común los temas más escuchados (tempo, energía, bailabilidad, duración) da a artistas y productores evidencia para decidir con datos y no solo con intuición. El análisis muestra asociaciones, no causas: el éxito también depende de factores que los datos no capturan, como el marketing.
+**Motivación.** El consumo de la música cambió en la actualidad con el streaming o la app de TikTok. Analizar estos datos permite a artistas y productoras tomar decisiones sobre, por ejemplo, qué duración y formato de canción conviene producir hoy en día.
 
 **Hallazgos preliminares** (análisis en curso):
 
