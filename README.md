@@ -170,7 +170,7 @@ Lab-Musica/
 
 | Nombre | GitHub |
 |---|---|
-| Kiara Cusce | [@usuario](https://github.com/usuario) |
+| Kiara Cusce | [@kiaracusce0409](https://github.com/kiaracusce0409) |
 | Milagros Gonzalez | [@usuario](https://github.com/usuario) |
 | Ian Chalverat | [@TDSxs](https://github.com/TDSxs) |
 | Luka Ygelman | [@Ygelmanluk](https://github.com/Ygelmanluk) |
