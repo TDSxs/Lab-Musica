@@ -195,5 +195,5 @@ Los *prompts* utilizados están documentados en el notebook, junto a cada celda.
 ## 🔗 Links
 
 - 📓 Notebook en Colab: [abrir en Colab](https://colab.research.google.com/drive/1cru-iGU5_YV_iGRTIEpqLH1wKiQRVaVK)
-- 📄 Informe: _[link]_
+- 📄 Informe: _[(https://docs.google.com/document/d/1guw9kZD_cGQ4cOAeNHPaRGRWD8iLCdBzypmUfNrYXB8/edit?usp=sharing)]_
 - 📊 Presentación: [ver en Canva](https://canva.link/39mn9y1w6bg1kyf)
