@@ -185,7 +185,7 @@ Usamos IA como asistente en distintas etapas del trabajo. La interpretación de 
 | Etapa | Herramienta | Uso |
 |---|---|---|
 | Análisis | _[Chat GPT/Claude]_ | Sintaxis de pandas (conversión a minutos, duplicados, `pd.cut`, `groupby`) y de gráficos con seaborn |
-| Informe | _[Chat GPT / Docs]_ | _[Ej.: redacción inicial en LaTeX]_ |
+| Informe | _[Chat GPT]_ | _[Ej.: redacción inicial en LaTeX]_ |
 | Presentación | _[Canva IA / Gamma]_ | _[Ej.: diseño de diapositivas]_ |
 
 Los *prompts* utilizados están documentados en el notebook, junto a cada celda.
@@ -195,5 +195,5 @@ Los *prompts* utilizados están documentados en el notebook, junto a cada celda.
 ## 🔗 Links
 
 - 📓 Notebook en Colab: [abrir en Colab](https://colab.research.google.com/drive/1cru-iGU5_YV_iGRTIEpqLH1wKiQRVaVK)
-- 📄 Informe: [descargar PDF](https://github.com/TDSxs/Lab-Musica/blob/main/THE%20MUSIC%20DATA%20(informe)]
+- 📄 Informe: [descargar PDF](https://github.com/TDSxs/Lab-Musica/blob/main/THE%20MUSIC%20DATA%20(informe)
 - 📊 Presentación: [ver en Canva](https://canva.link/39mn9y1w6bg1kyf)
