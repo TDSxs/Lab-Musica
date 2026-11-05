@@ -1,6 +1,6 @@
-# 🎵 Lab-Música: ¿qué tienen en común los hits de Spotify?
+# 🎵 Lab-Música: ¿qué tienen en común los más grandes hits de Spotify?
 
-Análisis de datos de canciones de Spotify para identificar qué características musicales distinguen a los temas más populares del resto.
+Análisis de datos de canciones de Spotify para identificar y distinguir qué características musicales caracterizan a los temas más populares del resto.
 
 Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a la Gestión**, Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones (FCE, UBA), 2do cuatrimestre 2026.
 
@@ -10,11 +10,11 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
 
 > **¿Qué patrones comparten las canciones más reproducidas de la historia reciente para replicar su éxito?**
 
-**Motivación.** El consumo de la música cambió en la actualidad con el streaming o la app de TikTok. Analizar estos datos permite a artistas y productoras tomar decisiones sobre, por ejemplo, qué duración y formato de canción conviene producir hoy en día.
+**Motivación.** El consumo de la música cambió en la época moderna con la llegada del streaming o app como TikTok. Analizar estos datos podría permitir a artistas y productoras tomar decisiones sobre, por ejemplo, qué duración y formato de canción conviene producir en la actualidad.
 
-**Hallazgos preliminares** (análisis en curso):
+**Hallazgos preliminares** (análisis en proceso):
 
-- Las canciones de **3,5 a 4,5 minutos** tienen la mayor popularidad promedio (35,3 puntos), seguidas por las de 2,5 a 3,5 minutos (33,8). Las cortas (< 2,5 min: 30,2) y las largas (> 4,5 min: 31,6) quedan por debajo.
+- Las canciones de **3,5 a 4,5 minutos** tienen la mayor popularidad promedio (35,3 puntos), seguidas por las de 2,5 a 3,5 minutos (33,8). Las cortas (< 2,5 min: 30,2) y las largas (> 4,5 min: 31,6) quedan por debajo de lo pretendido.
 - Los **hits** (popularidad > 70) son, en promedio, más bailables (*danceability* 0,625 contra 0,552 en las de baja popularidad), un poco más enérgicos (0,666 contra 0,641) y más alegres (*valence* 0,512 contra 0,479).
 
 ---
