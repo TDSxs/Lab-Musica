@@ -196,4 +196,4 @@ Los *prompts* utilizados están documentados en el notebook, junto a cada celda.
 
 - 📓 Notebook en Colab: [abrir en Colab](https://colab.research.google.com/drive/1cru-iGU5_YV_iGRTIEpqLH1wKiQRVaVK)
 - 📄 Informe: [descargar PDF](https://github.com/TDSxs/Lab-Musica/blob/main/THE%20MUSIC%20DATA.pdf)
-- 📊 Presentación: [ver en Canva](https://canva.link/39mn9y1w6bg1kyf)
+- 📊 Presentación: [ver en Canva]([https://canva.link/39mn9y1w6bg1kyf](https://canva.link/39mn9y1w6bg1kyf))
