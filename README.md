@@ -132,7 +132,10 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
    - `nivel_popularidad`: Baja (0–40), Media (41–70) y Alta / Hit (71–100).
 4. **Resúmenes agrupados** con `groupby`: popularidad según la duración, y bailabilidad, energía y positividad según el nivel de popularidad.
 5. **Gráficos:** distribución de la duración (histograma) y popularidad promedio por rango de duración (barras).
-
+6. **Puesta en común/Análisis externo:** propusimos a 3 individuos distintos la libre interpretación de este trabajo para asegurar la comprensión
+   externa y de gente que no conoce sobre el tema para entender si debíamos relizar alguna modificación o no(en los 3 casos lograron entender tanto el proceso
+   como la conclusión a la que llegamos)
+   
 **Próximos pasos:**
 
 - Gráfico de relación entre dos variables (por ejemplo, bailabilidad contra popularidad).
