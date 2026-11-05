@@ -10,7 +10,7 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
 
 > **¿Qué patrones comparten las canciones más reproducidas de la historia reciente para replicar su éxito?**
 
-**Motivación.** El consumo de la música cambió en la época moderna con la llegada del streaming o app como TikTok. Analizar estos datos podría permitir a artistas y productoras tomar decisiones sobre, por ejemplo, qué duración y formato de canción conviene producir en la actualidad.
+**Motivación.** El consumo de la música cambió en la época moderna con la llegada del streaming o de aplicaciones como TikTok. Analizar estos datos podría permitirles tanto a artistas como productoras musicales tomar decisiones sobre, por ejemplo, qué duración y formato de canción conviene fabricar en la actualidad. Buscamos entender los patrones mas frecuentes en los booms de Spotify (si es que los hay) para obtener un panorama específico sobre qué o no hacer.
 
 **Hallazgos preliminares** (análisis en proceso):
 
@@ -30,7 +30,7 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
 | **Cobertura** | 114.000 filas (unas 89.700 canciones únicas, porque una misma canción puede figurar en varios géneros), con su popularidad y características de audio |
 | **Licencia** | CC0: Public Domain |
 
-**Cómo obtenerlo:** descargarlo desde el [link de Kaggle](https://www.kaggle.com/datasets/saichaitanyareddyai/spotify-tracks-dataset-audio-features) (botón *Download*, requiere cuenta gratuita) y guardar el CSV en la carpeta `data/`.
+**Cómo obtenerlo:** descargarlo desde el [link de Kaggle](https://www.kaggle.com/datasets/saichaitanyareddyai/spotify-tracks-dataset-audio-features) (botón *Download*, requiere cuenta gratuita de Google) y guardar el CSV en la carpeta `data/`.
 
 #### Diccionario de datos
 
@@ -95,7 +95,7 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
 | `track_name` | str | Nombre de la canción |
 | `track_number` | int | Posición de la canción dentro del álbum (1 = primera) |
 | `track_popularity` | int (0–100) | Popularidad de la canción, igual que `popularity` del Dataset 1 |
-| `explicit` | bool | Si tiene letra explícita |
+| `explicit` | bool | Si contiene lenguaje explícito |
 | `track_duration_min` | float | Duración en minutos |
 
 **Artista**
@@ -136,7 +136,7 @@ Trabajo práctico grupal del **Laboratorio de Métodos Cuantitativos Aplicados a
 **Próximos pasos:**
 
 - Gráfico de relación entre dos variables (por ejemplo, bailabilidad contra popularidad).
-- Cruce con el Dataset 2 por `track_id`, para analizar la evolución por año de lanzamiento y el peso del artista (seguidores y popularidad).
+- Cruce con el Dataset 2 por `track_id`, para analizar la evolución según el año de lanzamiento y el peso del artista (teniendo en cuenta seguidores y popularidad).
 
 Herramientas: Python (pandas, numpy, matplotlib, seaborn) en Google Colab.
 
@@ -180,7 +180,7 @@ Lab-Musica/
 
 ## 🤖 Uso de inteligencia artificial
 
-Usamos IA como asistente en distintas etapas del trabajo. La interpretación de los resultados y las conclusiones son del grupo.
+Usamos IA como asistente en distintas etapas del trabajo. La interpretación de los resultados y las conclusiones son del equipo!
 
 | Etapa | Herramienta | Uso |
 |---|---|---|
