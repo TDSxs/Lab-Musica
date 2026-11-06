@@ -189,7 +189,7 @@ Usamos IA como asistente en distintas etapas del trabajo. La interpretación de 
 |---|---|---|
 | Análisis | _[Chat GPT/Claude]_ | Sintaxis de pandas (conversión a minutos, duplicados, `pd.cut`, `groupby`) y de gráficos con seaborn |
 | Informe | _[Chat GPT]_ | Síntesis de los hallazgos principales del análisis para la redacción de conclusiones |
-| Presentación | _[Canva IA / Gamma]_ | _[Ej.: diseño de diapositivas]_ |
+| Presentación | _[Canva IA / Gamma]_ | No se utilizó inteligencia artificial para la realización del Canva |
 
 Los *prompts* utilizados están documentados en el notebook, junto a cada celda.
 
